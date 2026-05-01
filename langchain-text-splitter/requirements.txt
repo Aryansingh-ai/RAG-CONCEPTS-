@@ -1,0 +1,7 @@
+langchain
+langchain-text-splitters
+langchain-community
+langchain-experimental
+langchain-openai
+python-dotenv
+pypdf
